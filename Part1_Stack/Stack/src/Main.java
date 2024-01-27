@@ -1,5 +1,4 @@
 import java.io.*;
-import java.util.LinkedList;
 import java.util.StringTokenizer;
 
 public class Main {
