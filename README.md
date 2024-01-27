@@ -5,3 +5,8 @@
 
 참고<br/>
 [알고리즘 공부순서](https://patiencelee.tistory.com/1072#4.%20%EB%B0%B1%EC%A4%80_%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98%20%EA%B8%B0%EC%B4%88%201%2F2-1)
+
+[스택] <br/>
+[10828번-스택](https://github.com/MinCodeHub/baekjoon-for-java/tree/main/Part1_Stack/Stack) <br/>
+[9093번-단어뒤집기](https://github.com/MinCodeHub/baekjoon-for-java/tree/main/Part1_Stack/Flip-words) <br/>
+[10828번-괄호](https://github.com/MinCodeHub/baekjoon-for-java/tree/main/Part1_Stack/bracket) <br/>
