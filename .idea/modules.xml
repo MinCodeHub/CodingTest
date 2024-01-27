@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/Part1_Stack/Flip-words/Flip-words.iml" filepath="$PROJECT_DIR$/Part1_Stack/Flip-words/Flip-words.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part1_Stack/Stack/Stack.iml" filepath="$PROJECT_DIR$/Part1_Stack/Stack/Stack.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/baekjoon-for-java.iml" filepath="$PROJECT_DIR$/.idea/baekjoon-for-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part1_Stack/bracket/bracket.iml" filepath="$PROJECT_DIR$/Part1_Stack/bracket/bracket.iml" />
     </modules>
   </component>
 </project>
