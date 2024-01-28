@@ -4,10 +4,8 @@ import java.util.Stack;
 
 public class Main {
     public static void main(String[] args) throws IOException {
-
+    //백준 9012번
         //예상 풀이 :
-        //일단 문자열 길이가 홀수이면 그냥 바로 NO 출력
-        //문자열 길이가 짝수일 때
         // ) 가 나오면 size를 +1 함
         //( 가 나오면 size를 하나 감소시킴
         //스택이 빌 때까지 이 과정을 반복함
