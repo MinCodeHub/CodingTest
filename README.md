@@ -11,3 +11,4 @@
 [9093번-단어뒤집기](https://github.com/MinCodeHub/baekjoon-for-java/tree/main/Part1_Stack/Flip-words) <br/>
 [10828번-괄호](https://github.com/MinCodeHub/baekjoon-for-java/tree/main/Part1_Stack/bracket) <br/>
 [10828번-스택 수열](https://github.com/MinCodeHub/baekjoon-for-java/tree/main/Part1_Stack/stackSequence) <br/>
+[1406번-에디터](https://github.com/MinCodeHub/baekjoon-for-java/tree/main/Part1_Stack/Editor) <br/>
