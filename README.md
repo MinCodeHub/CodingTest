@@ -13,3 +13,4 @@
 [10828번-스택 수열](https://github.com/MinCodeHub/baekjoon-for-java/tree/main/Part1_Stack/stackSequence) <br/>
 [1406번-에디터](https://github.com/MinCodeHub/baekjoon-for-java/tree/main/Part1_Stack/Editor) <br/>
 [10845번-큐](https://github.com/MinCodeHub/baekjoon-for-java/tree/main/Part_2_Queue/Queue)<br/>
+[1158번-요세푸스](https://github.com/MinCodeHub/baekjoon-for-java/tree/main/Part_2_Queue/Yosepuseu)<br/>
