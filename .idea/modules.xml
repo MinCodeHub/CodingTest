@@ -2,11 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Part_3_Deque/Deque/Deque.iml" filepath="$PROJECT_DIR$/Part_3_Deque/Deque/Deque.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part1_Stack/Editor/Editor.iml" filepath="$PROJECT_DIR$/Part1_Stack/Editor/Editor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part1_Stack/Flip-words/Flip-words.iml" filepath="$PROJECT_DIR$/Part1_Stack/Flip-words/Flip-words.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part_2_Queue/Queue/Queue.iml" filepath="$PROJECT_DIR$/Part_2_Queue/Queue/Queue.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part1_Stack/Stack/Stack.iml" filepath="$PROJECT_DIR$/Part1_Stack/Stack/Stack.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Yosepuseu/Yosepuseu.iml" filepath="$PROJECT_DIR$/Yosepuseu/Yosepuseu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part_2_Queue/Yosepuseu/Yosepuseu.iml" filepath="$PROJECT_DIR$/Part_2_Queue/Yosepuseu/Yosepuseu.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/baekjoon-for-java.iml" filepath="$PROJECT_DIR$/.idea/baekjoon-for-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part1_Stack/bracket/bracket.iml" filepath="$PROJECT_DIR$/Part1_Stack/bracket/bracket.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part1_Stack/stackSequence/stackSequence.iml" filepath="$PROJECT_DIR$/Part1_Stack/stackSequence/stackSequence.iml" />
