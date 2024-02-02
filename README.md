@@ -15,3 +15,4 @@
 [10845번-큐](https://github.com/MinCodeHub/baekjoon-for-java/tree/main/Part_2_Queue/Queue)<br/>
 [1158번-요세푸스](https://github.com/MinCodeHub/baekjoon-for-java/tree/main/Part_2_Queue/Yosepuseu)<br/>
 [10866번-덱](https://github.com/MinCodeHub/baekjoon-for-java/tree/main/Part_3_Deque/Deque)<br/>
+[17413번-단어뒤집기 2](https://github.com/MinCodeHub/baekjoon-for-java/tree/main/Part1_Stack/Reverse_word)<br/>
