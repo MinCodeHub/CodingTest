@@ -11,7 +11,6 @@ public class Main {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
-        StringTokenizer st;
 
         String s = br.readLine();
 
@@ -33,7 +32,7 @@ public class Main {
                         }
 
                     }
-                    //'<'를 만나면,,,>를 만날때까지 sb에 그냥 넣기
+                    //'<'를 만나면,,,>를 만날때까지 queue에 넣기
                     while(sarr[i] != '>'){
                         queue.offer(String.valueOf(sarr[i]));
                         i++;
