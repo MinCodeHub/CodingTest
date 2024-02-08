@@ -16,3 +16,9 @@
 [1158번-요세푸스](https://github.com/MinCodeHub/baekjoon-for-java/tree/main/Part_2_Queue/Yosepuseu)<br/>
 [10866번-덱](https://github.com/MinCodeHub/baekjoon-for-java/tree/main/Part_3_Deque/Deque)<br/>
 [17413번-단어뒤집기 2](https://github.com/MinCodeHub/baekjoon-for-java/tree/main/Part1_Stack/Reverse_word)<br/>
+
+중간 노선 변경<br/>
+참고<br/>
+(https://www.acmicpc.net/workbook/view/10475)
+
+[1260번-DFS와 BFS](https://github.com/MinCodeHub/baekjoon-for-java/tree/main/Part_4_DFS_BFS/DFS_and_BFS)
