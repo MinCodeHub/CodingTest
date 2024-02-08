@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/DFS_and_BFS/DFS_and_BFS.iml" filepath="$PROJECT_DIR$/DFS_and_BFS/DFS_and_BFS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part_3_Deque/Deque/Deque.iml" filepath="$PROJECT_DIR$/Part_3_Deque/Deque/Deque.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part1_Stack/Editor/Editor.iml" filepath="$PROJECT_DIR$/Part1_Stack/Editor/Editor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part1_Stack/Flip-words/Flip-words.iml" filepath="$PROJECT_DIR$/Part1_Stack/Flip-words/Flip-words.iml" />
