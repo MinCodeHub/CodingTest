@@ -19,7 +19,8 @@
 
 중간 노선 변경<br/>
 참고<br/>
-(https://www.acmicpc.net/workbook/view/10475)
+(https://www.acmicpc.net/workbook/view/10475)<br/>
+[DFS, BFS 추천문제](https://www.acmicpc.net/workbook/view/1833)
 
 [1260번-DFS와 BFS](https://github.com/MinCodeHub/baekjoon-for-java/tree/main/Part_4_DFS_BFS/DFS_and_BFS)<br/>
 [2667번-단지 번호 붙이기](https://github.com/MinCodeHub/baekjoon-for-java/tree/main/Part_4_DFS_BFS/Danji)<br/>
