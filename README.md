@@ -21,4 +21,6 @@
 참고<br/>
 (https://www.acmicpc.net/workbook/view/10475)
 
-[1260번-DFS와 BFS](https://github.com/MinCodeHub/baekjoon-for-java/tree/main/Part_4_DFS_BFS/DFS_and_BFS)
+[1260번-DFS와 BFS](https://github.com/MinCodeHub/baekjoon-for-java/tree/main/Part_4_DFS_BFS/DFS_and_BFS)<br/>
+[2667번-단지 번호 붙이기](https://github.com/MinCodeHub/baekjoon-for-java/tree/main/Part_4_DFS_BFS/Danji)<br/>
+[1697번-숨박꼭질](https://github.com/MinCodeHub/baekjoon-for-java/tree/main/Part_4_DFS_BFS/sumbakkogjil)<br/>
