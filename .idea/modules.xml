@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Part_4_DFS_BFS/DFS_and_BFS/DFS_and_BFS.iml" filepath="$PROJECT_DIR$/Part_4_DFS_BFS/DFS_and_BFS/DFS_and_BFS.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part_4_DFS_BFS/Danji/Danji.iml" filepath="$PROJECT_DIR$/Part_4_DFS_BFS/Danji/Danji.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Danji_onemore_test/Danji_onemore_test.iml" filepath="$PROJECT_DIR$/Danji_onemore_test/Danji_onemore_test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Part_4_DFS_BFS/Danji_onemore_test/Danji_onemore_test.iml" filepath="$PROJECT_DIR$/Part_4_DFS_BFS/Danji_onemore_test/Danji_onemore_test.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part_3_Deque/Deque/Deque.iml" filepath="$PROJECT_DIR$/Part_3_Deque/Deque/Deque.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part1_Stack/Editor/Editor.iml" filepath="$PROJECT_DIR$/Part1_Stack/Editor/Editor.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part1_Stack/Flip-words/Flip-words.iml" filepath="$PROJECT_DIR$/Part1_Stack/Flip-words/Flip-words.iml" />
@@ -15,6 +15,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/baekjoon-for-java.iml" filepath="$PROJECT_DIR$/.idea/baekjoon-for-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part1_Stack/bracket/bracket.iml" filepath="$PROJECT_DIR$/Part1_Stack/bracket/bracket.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part1_Stack/stackSequence/stackSequence.iml" filepath="$PROJECT_DIR$/Part1_Stack/stackSequence/stackSequence.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sumbakkogjil/sumbakkogjil.iml" filepath="$PROJECT_DIR$/sumbakkogjil/sumbakkogjil.iml" />
     </modules>
   </component>
 </project>
