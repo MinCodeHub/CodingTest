@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="_10926" target="17" />
+      <module name="_10926.main" target="17" />
+      <module name="_10926.test" target="17" />
+      <module name="_11382" target="17" />
+      <module name="_11382.main" target="17" />
+      <module name="_11382.test" target="17" />
+      <module name="Part0_Input_Output" target="17" />
+      <module name="Part0_Input_Output.main" target="17" />
+      <module name="Part0_Input_Output.test" target="17" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
