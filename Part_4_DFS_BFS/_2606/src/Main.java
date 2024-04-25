@@ -23,8 +23,9 @@ public class Main {
 
         //그래프 초기화
         graph = new ArrayList<>();
+
         for (int i = 0; i <= v; i++) {
-            graph.add(new ArrayList<>());
+                graph.add(new ArrayList<>());
         }
 
         //그래프에 값 넣기
