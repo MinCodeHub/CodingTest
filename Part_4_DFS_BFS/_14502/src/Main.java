@@ -18,6 +18,8 @@ public class Main {
         m = Integer.parseInt(st.nextToken());
         originalMap = new int[n][m];
 
+
+        //원본 맵
         for(int i=0; i<n; i++) {
             st = new StringTokenizer(br.readLine());
             for(int j=0; j<m; j++) {
@@ -25,10 +27,13 @@ public class Main {
             }
         }
 
+        //dfs호출
         dfs(0);
 
         System.out.println(maxSafeZone);
     }
+
+    //전략 자체가 그냥 벽을 설치할 수 있는 곳엔 모두 설치해보고 최대 세이프 존을 찾아보자
 
     static void dfs(int wallCnt) {
         //벽이 3개가 설치 된 경우 bfs 탐색 시작
