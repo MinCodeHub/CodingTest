@@ -13,10 +13,11 @@ public class Main {
     // -> 반례 : m에서 하나만 주어졌을 때 " "가 없어서 에러남 (읭? 뭐지 했음 그럼 어케하란말임..?)
     // -> 반례가 중요한게 아님 m까지 돌려야하는데 n까지 돌려버려서 에러났던 거임
 
-    static int[] arr;
-    static int[] findnum;
+    static int[] arr; // 입력 배열
+    static int[] findnum; // arr에서 찾아야 하는 수 배열
 
     public static void main(String[] args) throws IOException {
+        //여기부터
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
 
@@ -26,21 +27,22 @@ public class Main {
         StringTokenizer st;
         st = new StringTokenizer(br.readLine(), " ");
 
-//        String[] input = br.readLine().split(" ");
+
         for (int i = 0; i < n; i++) {
             arr[i] = Integer.parseInt(st.nextToken());
         }
 
         int m = Integer.parseInt(br.readLine());
         findnum = new int[m];
-//        String[] input2 = br.readLine().split(" ");
+
         st = new StringTokenizer(br.readLine(), " ");
 
         for (int i = 0; i < m; i++) {
             findnum[i] = Integer.parseInt(st.nextToken());
         }
+        //여기까지 배열 입력받는 코드
 
-        quick_sort(arr, 0, arr.length - 1);
+        quick_sort(arr, 0, arr.length - 1); //퀵소트로 arr 정렬(오름차순)
 
 
         for (int j = 0; j < m; j++) {
@@ -52,7 +54,7 @@ public class Main {
     }
 
     private static int binarySearch(int key, int low, int high) {
-
+   //이분 탐색
         int mid;
         if (low <= high) {
             mid = (low + high) / 2;
