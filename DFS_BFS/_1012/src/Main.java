@@ -14,8 +14,8 @@ public class Main {
     static int[] dx = {0, -1, 0, 1};
     static int[] dy = {1, 0, -1, 0};
 
-    static void dfs(int x, int y) {
 
+    static void dfs(int x, int y) {
         visited[x][y] = true;
         for (int i = 0; i < 4; i++) {
             int cx = x + dx[i];
