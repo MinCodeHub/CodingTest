@@ -11,8 +11,10 @@ public class Main {
         String str = br.readLine();
 
         String[] arr = str.split("\\.");
+        int strlen = str.length();
 
         for (int i = 0; i < arr.length; i++) {
+
             String x = arr[i];
             int length = x.length();
 
@@ -25,15 +27,21 @@ public class Main {
             while (length >= 4) {
                 sb.append("AAAA");
                 length -= 4;
+                strlen-=4;
             }
             while (length >= 2) {
                 sb.append("BB");
                 length -= 2;
+                strlen-=2;
             }
 
             if (i != arr.length - 1) {
                 sb.append(".");
+                strlen-=1;
             }
+        }
+        for(int i =0; i < strlen;i++){
+            sb.append(".");
         }
 
         System.out.println(sb);
