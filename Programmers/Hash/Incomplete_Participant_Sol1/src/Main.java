@@ -1,4 +1,4 @@
-package CodingTest.Programmers.Incomplete_Participant_Sol1.src;
+package CodingTest.Programmers.Hash.Incomplete_Participant_Sol1.src;
 
 import java.io.IOException;
 import java.util.*;
