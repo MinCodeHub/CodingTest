@@ -1,7 +1,6 @@
 # 백준 자바 문제 풀기
 
-[백준- 단계별로 풀어보기](https://www.acmicpc.net/step) 백준 코딩테스트 연습 
-
+[코딩테스트 대비 문제집(Baekjoon Online Judge)](https://github.com/MinCodeHub/baekjoon)
 
 ## 🗓 목표
 
