@@ -3,7 +3,7 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 
 public class Main {
-
+ //구현 실버 5
     static int x;
 
     static int cnt;
