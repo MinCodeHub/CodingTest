@@ -49,8 +49,9 @@ public class Main {
             for (int next : graph.get(current)) {
                 if (distance[next] == -1) {
                     distance[next] = distance[current] + 1;
+                    q.add(next);
                 }
-                q.add(next);
+
             }
         }
         boolean found = false;
