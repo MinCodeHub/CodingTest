@@ -14,7 +14,6 @@ public class Main {
     static StringBuilder sb;
     static StringTokenizer st;
     static boolean[] isVisited;
-    static HashMap<Integer,Integer> map = new HashMap<>();
 
     public static void main(String[] args) throws IOException {
 
@@ -41,30 +40,23 @@ public class Main {
 
     }
 
-    private static void comb(int start, int depth) {// 중복된 수 이거나 이미 방문한 수라면 통과함
-
-        if(depth == M){
-            for(int i = 0 ; i<M; i++){
-                sb.append(output[i] + " ");
+    private static void comb(int start, int depth) {
+        if (depth == M) {
+            for (int i = 0; i < M; i++) {
+                sb.append(output[i]).append(" ");
             }
             sb.append("\n");
             return;
         }
 
-        int before = -1;
+        int before = -1; // 이전에 선택한 값
 
-        for(int i = start; i < N; i++){
-            int now = num[i];
-            if(before == now || isVisited[i]){
-                continue;
-            }else{ // 아직 방문도 하지 않았고 중복된 수도 아니라면
-                before = now;
-                isVisited[i] = true;
-                output[depth] = num[i];
-                comb(i+1,depth+1);
-                isVisited[i] = false;
-            }
+        for (int i = start; i < N; i++) {
+            if (before == num[i]) continue; // 이전 값과 같으면 중복이므로 건너뛰기
 
+            before = num[i];  // 현재 값을 이전 값으로 업데이트
+            output[depth] = num[i];
+            comb(i + 1, depth + 1);  // 다음 인덱스부터 탐색 (중복 방지)
         }
     }
 }
