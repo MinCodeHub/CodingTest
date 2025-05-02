@@ -1,9 +1,7 @@
-import javax.xml.stream.events.StartDocument;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.LinkedList;
-import java.util.List;
 import java.util.StringTokenizer;
 
 public class Main {
@@ -80,12 +78,3 @@ public class Main {
     }
 }
 
-class Team{
-    int teamNum=0;
-    String time;
-
-    Team(int teamNum, String time){
-        this.teamNum = teamNum;
-        this.time = time;
-    }
-}
