@@ -23,6 +23,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/_10926.main.iml" filepath="$PROJECT_DIR$/.idea/modules/_10926.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/_10926.test.iml" filepath="$PROJECT_DIR$/.idea/modules/_10926.test.iml" />
       <module fileurl="file://$PROJECT_DIR$/_11052/_11052.iml" filepath="$PROJECT_DIR$/_11052/_11052.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1138/_1138.iml" filepath="$PROJECT_DIR$/_1138/_1138.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part0_Basic/_11382/_11382.iml" filepath="$PROJECT_DIR$/Part0_Basic/_11382/_11382.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/_11382.main.iml" filepath="$PROJECT_DIR$/.idea/modules/_11382.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/_11382.test.iml" filepath="$PROJECT_DIR$/.idea/modules/_11382.test.iml" />
@@ -50,6 +51,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/baekjoon-for-java.iml" filepath="$PROJECT_DIR$/.idea/baekjoon-for-java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part1_Stack/bracket/bracket.iml" filepath="$PROJECT_DIR$/Part1_Stack/bracket/bracket.iml" />
       <module fileurl="file://$PROJECT_DIR$/dodgeball/dodgeball.iml" filepath="$PROJECT_DIR$/dodgeball/dodgeball.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Review/String/Silver3/r_20920/r_20920.iml" filepath="$PROJECT_DIR$/Review/String/Silver3/r_20920/r_20920.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part1_Stack/stackSequence/stackSequence.iml" filepath="$PROJECT_DIR$/Part1_Stack/stackSequence/stackSequence.iml" />
       <module fileurl="file://$PROJECT_DIR$/Part_4_DFS_BFS/sumbakkogjil/sumbakkogjil.iml" filepath="$PROJECT_DIR$/Part_4_DFS_BFS/sumbakkogjil/sumbakkogjil.iml" />
     </modules>
